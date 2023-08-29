@@ -8,8 +8,8 @@ Hello, I am a Computer Engineering student at Pamulang University and I am curre
   <a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://iconape.com/wp-content/files/rv/51664/svg/c.svg" /></a>
   <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://cdn.worldvectorlogo.com/logos/java.svg" /></a>
   <a href="#"><img align="left" alt="Html" title="html" width="21px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="CSS" title="CSS" width="21px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></a>
+  <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /></a>
+  <a href="#"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></a>
   <br>
   <br>
 
