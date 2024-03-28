@@ -5,11 +5,14 @@
   <h1 align="center">Hi 👋, I'm Raya Adinda </h1>
   <h3 align="center">Hello, I am a Computer Engineering student at Universitas Pamulang.</h3>
 
+  
+
 <div align="center">
 
   <a href="">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="">![example2](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
   <a href="">![example3](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 </div>
 
@@ -19,6 +22,7 @@
 
 
 # 💻 Tech Stack:
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -28,6 +32,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  <img align="right" src ="https://github.com/rayaadinda/rayaadinda/blob/main/giphy%20(1).gif">
 
 
 
