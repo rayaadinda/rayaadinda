@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Raya Adinda </h1>
-<h3 align="center">Hello, I am a Computer Engineering student at Pamulang University and I am currently in my third semester.</h3>
+<p align="center">
+  <img src="Twice.JPG" title="hover text">
+</p>
+
+  <h1 align="center">Hi 👋, I'm Raya Adinda </h1>
+  <h3 align="center">Hello, I am a Computer Engineering student at Universitas Pamulang.</h3>
+
+
 
 
 
