@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <a href="www.linkedin.com/in/raya-adinda">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="linkedin.com/in/raya-adinda/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://twitter.com/kudzarvka">![Twittwe](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rayaadinda78@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
  <a href="https://twitter.com/kudzarvka">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
