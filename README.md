@@ -1,5 +1,5 @@
-<p align="center" href="https://twice.jype.com/">
-  <img src="Twice.JPG" title="Twice">
+<p align="center" href="https://twice.jype.com/" alt="@MyouiTime on Twitter">
+  <img src="Twice.JPG" title="@MyouiTime on Twitter">
 </p>
 
   <h1 align="center">Hi 👋, I'm Raya Adinda </h1>
