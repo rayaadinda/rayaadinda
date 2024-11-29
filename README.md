@@ -2,26 +2,21 @@
   <img src="Twice.JPG" title="@MyouiTime on Twitter">
 </p>
 
-  <h1 align="center">Hi 👋, I'm Raya Adinda </h1>
-  <h3 align="center">Hello, I am a Computer Engineering student at Universitas Pamulang.</h3>
-
   
 
-<div align="center">
+
 
   <a href="https://linkedin.com/in/raya-adinda">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://twitter.com/kudzarvka">![Twittwe](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rayaadinda78@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
  <a href="https://www.instagram.com/fromrayacamera">![instagram](https://img.shields.io/badge/Fromrayacamera-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-</div>
 
 
 
 
 
 
-# 💻 Tech Stack:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) 
