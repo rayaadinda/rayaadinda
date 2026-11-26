@@ -2,7 +2,7 @@
   "username": "rayaadinda",
   "profile": {
     "name": "Raya Adinda",
-    "intro": "Full-stack developer & builder from Jakarta.",
+    "intro": "Full-stack developer & forever yearner.",
     "closing": "set sails."
   },
   "theme": {
@@ -17,9 +17,7 @@
   },
   "featured": [
     "rayaadinda/DevDock",
-    "rayaadinda/Suzume",
-    "rayaadinda/frontend-kp",
-    "rayaadinda/porto-2025v2"
+    "rayaadinda/Suzume"
   ],
   "more": [
     "unChain-Capstone/unchain-frontend",

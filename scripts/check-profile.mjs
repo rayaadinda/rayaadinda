@@ -14,9 +14,10 @@ export function validateConfig(config) {
       errors.push(`${path} must be a non-empty string`);
     }
   };
-  const repos = (value, path, count) => {
-    if (!Array.isArray(value) || value.length !== count) {
-      errors.push(`${path} must list exactly ${count} repositories`);
+  const repos = (value, path, counts) => {
+    const allowed = Array.isArray(counts) ? counts : [counts];
+    if (!Array.isArray(value) || !allowed.includes(value.length)) {
+      errors.push(`${path} must list ${allowed.join(' or ')} repositories`);
       return;
     }
     value.forEach((repo, i) => {
@@ -44,7 +45,7 @@ export function validateConfig(config) {
     }
   }
 
-  repos(config.featured, 'featured', 4);
+  repos(config.featured, 'featured', [2, 4]);
   repos(config.more, 'more', 4);
 
   if (config.descriptions !== undefined) {
