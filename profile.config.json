@@ -1,0 +1,38 @@
+{
+  "username": "rayaadinda",
+  "profile": {
+    "name": "Raya Adinda",
+    "intro": "Full-stack developer & builder from Jakarta.",
+    "closing": "set sails."
+  },
+  "theme": {
+    "void": "#050608",
+    "surface": "#0c0f15",
+    "rule": "#162338",
+    "ink": "#1269cc",
+    "quiet": "#4c7bb0",
+    "signal": "#53d8fb",
+    "dotDim": "#092240",
+    "dotMid": "#0d4a91"
+  },
+  "featured": [
+    "rayaadinda/DevDock",
+    "rayaadinda/Suzume",
+    "rayaadinda/frontend-kp",
+    "rayaadinda/porto-2025v2"
+  ],
+  "more": [
+    "unChain-Capstone/unchain-frontend",
+    "rayaadinda/Fern",
+    "rayaadinda/HPZCrew",
+    "rayaadinda/UGC-Management-Hub"
+  ],
+  "descriptions": {
+    "rayaadinda/HPZCrew": "Web application built with React and Vite",
+    "rayaadinda/UGC-Management-Hub": "UGC management hub built with Vite, React, and Supabase"
+  },
+  "links": [
+    { "label": "rey.archivedby.me", "url": "https://rey.archivedby.me/" },
+    { "label": "linkedin/rayaadinda", "url": "https://www.linkedin.com/in/rayaadinda" }
+  ]
+}
