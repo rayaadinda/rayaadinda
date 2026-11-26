@@ -11,14 +11,14 @@ const DAY = 86_400_000;
 const WINDOW_DAYS = 120;
 
 const DEFAULT_THEME = {
-  void: '#050608',
-  surface: '#0c0f15',
-  rule: '#162338',
-  ink: '#1269cc',
-  quiet: '#4c7bb0',
-  signal: '#53d8fb',
-  dotDim: '#092240',
-  dotMid: '#0d4a91',
+  void: '#06070a',
+  surface: '#0e1017',
+  rule: '#1f2638',
+  ink: '#9ab8e8',
+  quiet: '#68799e',
+  signal: '#d8ecff',
+  dotDim: '#1c2438',
+  dotMid: '#5d74a8',
 };
 
 const config = readConfig('profile.config.json');
